@@ -5,19 +5,16 @@
 🔍 Research & Applied Analytics | ML | Forecasting
 
 ## 🔧 Skills
-- Python (Pandas, NumPy, Scikit-learn)
+- Python 
 - SQL | Data Cleaning & EDA
 - Machine Learning & Forecasting
-- Data Visualization (Matplotlib, Seaborn)
+- Data Visualization
 
 ## 📌 Featured Projects
 - 📈 Course Demand Forecasting (ML + Time Series)
 - 🏦 Credit Risk Modeling
 - 🧠 Sentiment Analysis (NLP)
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURNAME)
-
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/xxxx
-- Kaggle: https://kaggle.com/xxxx
+- LinkedIn: https://linkedin.com/in/xxxx](https://www.linkedin.com/in/abdulrhman-m-alshareef-22863338/
+
