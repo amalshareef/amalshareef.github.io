@@ -16,5 +16,5 @@
 - 🧠 Sentiment Analysis (NLP)
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/xxxx](https://www.linkedin.com/in/abdulrhman-m-alshareef-22863338/
+- LinkedIn: https://www.linkedin.com/in/abdulrhman-m-alshareef-22863338/
 
