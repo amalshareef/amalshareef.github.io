@@ -11,9 +11,11 @@
 - Data Visualization
 
 ## 📌 Featured Projects
+
 - 📈 Course Demand Forecasting (ML + Time Series)
 - 🏦 Credit Risk Modeling
 - 🧠 Sentiment Analysis (NLP)
+- Churn-analysis https://github.com/amalshareef/churn-analysis
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/abdulrhman-m-alshareef-22863338/
